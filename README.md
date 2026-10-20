@@ -8,7 +8,9 @@ All graphics are drawn with code (simple shapes). There are no Nintendo copyrigh
 
 **Locally:** open [`index.html`](index.html) in any modern browser (Chrome, Firefox, Safari, Edge).
 
-**GitHub Pages:** enable Pages for this repo with the default branch root; visit your published URL and load `index.html` (or set it as the site entry if you use `docs/` or root hosting).
+**GitHub Pages:** after enabling Pages for the [`2026-10-20-hello-world-super-mario`](https://github.com/connect-world-1985-ai/2026-10-20-hello-world-super-mario) repo (default branch, root `/`), play at:
+
+https://connect-world-1985-ai.github.io/2026-10-20-hello-world-super-mario/
 
 ## Controls
 
